@@ -1,0 +1,38 @@
+.outter
+{
+    height: 530px;
+    width: 302px;
+    border: 1px solid;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    background-color: grey;
+    box-shadow: 20px 20px 20px  rgb(210, 204, 204);
+    
+}
+.inner
+{
+    position: relative;
+    bottom: -100px;
+}
+p{
+    font-size: 50px;
+}
+.size
+{
+    width: 90px;
+    border-radius: 5px;
+}
+#ans 
+{
+    position: relative;
+    bottom: 550px;
+    left: 400px;
+    
+     
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
